@@ -1,8 +1,5 @@
 # AI-enablement-roadmap-app
 
-
-## Enablement & Adoption Prototype
-
 `AI-enablement-roadmap-app` is an AI enablement prototype designed to help non-technical users move from vague business problems to structured, actionable AI outputs.
 
 The project focuses on one of the biggest barriers in enterprise AI adoption: helping people understand how to work with AI before expecting them to extract value from it.
